@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **PHP, JS, MYSQL**
 
-- 🤝 I’m looking for help with **I help clients create modern, responsive, and user-friendly websites using HTML, CSS, JavaScript, and WordPress.**
+- 🤝 I’m looking for help with ** modern, responsive, and user-friendly websites using HTML, CSS, JavaScript, and WordPress.**
 
 - 💬 Ask me about **Web Design Developing & WordPress**
 
