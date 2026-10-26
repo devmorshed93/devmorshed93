@@ -1,7 +1,7 @@
 <img src="https://i.ibb.co.com/PGNySGPc/portfolio.png" alt="web developer" border="0">
 <h3 align="center">Professional Web Designer | WordPress Developer | Elementor Specialist </h3>
 
-<p align="left"> alt="devmorshed93" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devmorshed93" alt="devmorshed93" /></a> </p>
 
